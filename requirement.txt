@@ -1,0 +1,6 @@
+openai-agents==0.0.19
+gradio
+python-dotenv
+sendgrid
+pydantic
+httpx
